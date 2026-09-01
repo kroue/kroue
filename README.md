@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:7C3AED,100:DB2777&height=190&section=header&text=Al%20John%20Arranguez&fontSize=44&fontColor=ffffff&fontAlignY=34&desc=Full-Stack%20Developer%20%E2%80%A2%20Philippines&descAlignY=54&descSize=16" alt="Al John Arranguez — Full-Stack Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:7C3AED,100:DB2777&height=190&section=header&text=kroue&fontSize=44&fontColor=ffffff&fontAlignY=34&desc=Full-Stack%20Developer%20%E2%80%A2%20Philippines&descAlignY=54&descSize=16" alt="kroue — Full-Stack Developer" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=7C3AED&center=true&vCenter=true&width=560&lines=Friendly+Neighborhood+Developer;Web+%2B+mobile+apps+that+actually+ship;Angular+%E2%80%A2+React+Native+%E2%80%A2+Next.js+%E2%80%A2+Supabase" alt="Web and mobile apps that actually ship" />
 
@@ -15,7 +15,7 @@
 
 ---
 
-## Hi, I'm Al John 👋
+## Hi, I'm kroue 👋
 
 I build **web and mobile applications that real businesses run on** — inventory and point-of-sale systems, ordering platforms, admin dashboards, and mobile apps. Most of my projects start the same way: someone is running their operation on paper or a spreadsheet, and it has stopped scaling.
 
@@ -183,4 +183,3 @@ My portfolio site. **[Visit it live →](https://kroue-dev.vercel.app)**
 
 </div>
 
-![](https://capsule-render.vercel.app/api?type=waving&color=0:DB2777,50:7C3AED,100:2563EB&height=110&section=footer)
